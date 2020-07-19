@@ -13,6 +13,10 @@ numpy = "*"
 beautifulsoup4 = "*"
 folium = "*"
 geopy = "*"
+python-dotenv = "*"
+matplotlib = "*"
+sklearn = "*"
+yellowbrick = "*"
 
 [requires]
 python_version = "3.7"
